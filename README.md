@@ -8,3 +8,11 @@ Key features: 1. step: time (in hours) since start of simulation
               2. type: transaction type (CASH_IN, CASH_OUT, TRANSFER, etc.)
               3. amount, oldbalanceOrg, newbalanceOrig, oldbalanceDest, newbalanceDest
               4. isFraud: fraud label (target variable)
+
+Tech Stack : Python: pandas, numpy, scikit-learn, imbalanced-learn
+
+Modeling: Logistic Regression, Random Forest, XGBoost
+
+Visualization: matplotlib, seaborn
+
+Imbalance handling: SMOTE
