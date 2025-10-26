@@ -13,6 +13,6 @@ Tech Stack : Python: pandas, numpy, scikit-learn, imbalanced-learn
 
 Modeling: Logistic Regression, Random Forest, XGBoost
 
-Visualization: matplotlib, seaborn
+Visualization: matplotlib, seaborn, plotly
 
 Imbalance handling: SMOTE
